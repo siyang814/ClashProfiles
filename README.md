@@ -1,7 +1,7 @@
 clashprofile：
 	自己用的规则
 
-
+#==============example===============
 rule-providers:
   apple:
     behavior: "domain" # domain, ipcidr or classical (premium core only)
@@ -14,18 +14,18 @@ rule-providers:
     type: file
     path: /microsoft.yaml
 
-==============domain===============
+#==============domain===============
 domain
 payload:
   - '.blogger.com'
   - '*.*.microsoft.com'
   - 'books.itunes.apple.com'
-  =============ipcidr================
+#=============ipcidr================
 ipcidr
 payload:
   - '192.168.1.0/24'
   - '10.0.0.0.1/32'
-  ============classical=================
+#============classical=================
 classical
 payload:
   - DOMAIN-SUFFIX,google.com
