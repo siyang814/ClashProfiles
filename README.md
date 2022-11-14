@@ -14,6 +14,8 @@ rule-providers:
     type: file
     path: /microsoft.yaml
 
+    
+
 #==============domain===============
 domain
 payload:
