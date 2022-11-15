@@ -5,7 +5,9 @@ payload:
   # - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
+  - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,javsee.in
+
 
 
  #  # LAN
