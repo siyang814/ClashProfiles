@@ -1,6 +1,22 @@
 payload:
   # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
+# 群晖  
+  - DOMAIN-SUFFIX,update7.synology.com
+  
+#   小米
+  - DOMAIN-SUFFIX,o2o.api.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,de.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+
   # 广告关键词
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
