@@ -11,10 +11,10 @@ payload:
   # - DOMAIN-SUFFIX,feed43.com
   # - DOMAIN-SUFFIX,tits-guru.com
 
-  # BT 端口 
-  - DST-PORT,6882
-  - DST-PORT,16882
-  - DST-PORT,16883
+  # BT 端口 DTS 目标端口  SRC 源端口
+  - SRC-PORT,6882
+  - SRC-PORT,16882
+  - SRC-PORT,16883
   # - DST-PORT,7895
 
 
