@@ -5,8 +5,8 @@ payload:
   # - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,tracker.m-team.cc
   - DOMAIN-SUFFIX,t.pthome.net
-  - DOMAIN-SUFFIX,torrent
-  - DOMAIN-SUFFIX,tracker
+#   - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
   # - DOMAIN-SUFFIX,m-team.cc
   # - DOMAIN-SUFFIX,feed43.com
   # - DOMAIN-SUFFIX,tits-guru.com
