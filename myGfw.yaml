@@ -2,7 +2,7 @@ payload:
   # 代理列表 我自己的
 
   # MyList && Other
-  # - DOMAIN-SUFFIX,1password.com
+  # - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
   
