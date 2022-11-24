@@ -3,10 +3,10 @@ payload:
 
   # MyList && Other
   # - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tracker.m-team.cc
   - DOMAIN-SUFFIX,t.pthome.net
 #   - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
   # - DOMAIN-SUFFIX,m-team.cc
   # - DOMAIN-SUFFIX,feed43.com
   # - DOMAIN-SUFFIX,tits-guru.com
