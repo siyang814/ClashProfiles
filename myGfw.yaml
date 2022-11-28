@@ -26,7 +26,8 @@ payload:
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,buxiuse.com
   
-  
+#   图片地址
+  - DOMAIN-SUFFIX,img.blr844.com
 
 
 
