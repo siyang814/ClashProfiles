@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,buxiuse.com
   
   - DOMAIN-SUFFIX,hjd2048.com
+
+  - DOMAIN-SUFFIX,thetvdb.com
   
 #   图片地址
   - DOMAIN-SUFFIX,img.blr844.com
