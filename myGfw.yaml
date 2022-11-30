@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,hjd2048.com
 #深影
 #  - DOMAIN-SUFFIX,shinybbs.vip
-#  - DOMAIN-SUFFIX,avgle.com
+  - DOMAIN-SUFFIX,avgle.com
 
   - DOMAIN-SUFFIX,thetvdb.com
   
