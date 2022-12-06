@@ -5,10 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
-  
-  - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-SUFFIX,imgsto.com
-  
+ 
   - DOMAIN-SUFFIX,feed43.com
  # - DOMAIN-KEYWORD,whiskerssituationdisturb
   - DOMAIN-SUFFIX,tits-guru.com
@@ -38,13 +35,10 @@ payload:
   
 #   图片地址
   - DOMAIN-SUFFIX,img.blr844.com
+  - DOMAIN-SUFFIX,imgstar.eu
+ 
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,imgsto.com
 
 
 
-
- #  # LAN
- # - DOMAIN-SUFFIX,local,DIRECT
- # - IP-CIDR,127.0.0.0/8,DIRECT
- # # - IP-CIDR,172.16.0.0/16,DIRECT
- # - IP-CIDR,192.168.0.0/16,DIRECT
- # - IP-CIDR,10.0.0.0/16,DIRECT
