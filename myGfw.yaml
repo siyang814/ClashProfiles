@@ -6,9 +6,9 @@ payload:
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
   
-#   - DOMAIN-SUFFIX,kp.m-team.cc
+  - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,feed43.com
-  - DOMAIN-KEYWORD,whiskerssituationdisturb
+ # - DOMAIN-KEYWORD,whiskerssituationdisturb
   - DOMAIN-SUFFIX,tits-guru.com
   
   - DOMAIN-SUFFIX,javbus.com
