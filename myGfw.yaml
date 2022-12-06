@@ -35,10 +35,10 @@ payload:
   
 #   图片地址
   - DOMAIN-SUFFIX,img.blr844.com
-  - DOMAIN-SUFFIX,imgstar.eu
+ # - DOMAIN-SUFFIX,imgstar.eu
  
-  - DOMAIN-KEYWORD,dmm.co.jp
-  - DOMAIN-KEYWORD,imgsto.com
+ # - DOMAIN-KEYWORD,dmm.co.jp
+ # - DOMAIN-KEYWORD,imgsto.com
 
 
 
