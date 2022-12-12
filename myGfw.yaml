@@ -35,9 +35,10 @@ payload:
   
 #   图片地址
   - DOMAIN-SUFFIX,img.blr844.com
+  - DOMAIN,stuckencouragedscalpel.com
+  - DOMAIN,pics.dmm.co.jp
+  
 #  - DOMAIN-SUFFIX,porn-images-xxx.com
- 
-  - DOMAIN-SUFFIX,dmm.co.jp
  # - DOMAIN-KEYWORD,imgsto.com
 
 
