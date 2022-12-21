@@ -3,6 +3,10 @@ payload:
 
   # MyList && Other
   # - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,localhost
+
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tracker.m-team.cc
 #   - DOMAIN-SUFFIX,t.pthome.net
