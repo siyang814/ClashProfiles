@@ -19,6 +19,7 @@ payload:
   - SRC-PORT,6882
   - SRC-PORT,16882
   - SRC-PORT,16883
+  - SRC-PORT,16888
   # - DST-PORT,7895
 # 下载ip 直连
   - SRC-IP-CIDR,10.0.0.4/32
