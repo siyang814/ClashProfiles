@@ -8,10 +8,10 @@ payload:
   - DOMAIN-SUFFIX,localhost
 
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-SUFFIX,tracker.m-team.cc
+  - DOMAIN,tracker.m-team.cc
 #   - DOMAIN-SUFFIX,t.pthome.net
 #   - DOMAIN-KEYWORD,torrent
-  # - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.cc
   # - DOMAIN-SUFFIX,feed43.com
   # - DOMAIN-SUFFIX,tits-guru.com
 
@@ -22,7 +22,7 @@ payload:
   - SRC-PORT,16888
   # - DST-PORT,7895
 # 下载ip 直连
-  - SRC-IP-CIDR,10.0.0.4/32
+#  - SRC-IP-CIDR,10.0.0.4/32
 #  - SRC-IP-CIDR,10.0.1.8/32
 
 
