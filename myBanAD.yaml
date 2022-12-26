@@ -5,15 +5,15 @@ payload:
   - DOMAIN,update7.synology.com
   
 #   小米
-  - DOMAIN,o2o.api.xiaomi.com
-  - DOMAIN,api.ad.xiaomi.com
-  - DOMAIN,mishop.pandora.xiaomi.com
-  - DOMAIN,stat.pandora.xiaomi.com
-  - DOMAIN,upgrade.mishop.pandora.xiaomi.com
-  - DOMAIN,dvb.pandora.xiaomi.com
-  - DOMAIN,de.pandora.xiaomi.com
-  - DOMAIN,data.mistat.xiaomi.com
-  - DOMAIN,jellyfish.pandora.xiaomi.com
-  - DOMAIN,gallery.pandora.xiaomi.com
-  - DOMAIN,bss.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,o2o.api.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,de.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,bss.pandora.xiaomi.com
 
