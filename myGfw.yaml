@@ -1,6 +1,10 @@
 payload:
   # 代理列表 我自己的
 
+#   图片地址
+  - DOMAIN-SUFFIX,img.blr844.com
+  - DOMAIN-SUFFIX,im.hdporncomics.com
+
   # MyList && Other
   # - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,sehuatang.net
@@ -35,10 +39,6 @@ payload:
 
   - DOMAIN-SUFFIX,thetvdb.com
   
-#   图片地址
-  - DOMAIN-SUFFIX,img.blr844.com
-  - DOMAIN-SUFFIX,img.xwbo.com
-  - DOMAIN-SUFFIX,cdni.pornpics.com
 
 #onejav
 #  - DOMAIN,stuckencouragedscalpel.com
