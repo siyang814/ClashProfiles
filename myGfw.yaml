@@ -1,6 +1,6 @@
 payload:
   # 代理列表 我自己的
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN,raw.githubusercontent.com
 
 #   图片地址
   - DOMAIN-SUFFIX,blr844.com
