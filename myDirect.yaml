@@ -2,7 +2,7 @@ payload:
   # 直连列表
 
   # MyList && Other
-  # - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
