@@ -1,7 +1,7 @@
 payload:
   # 代理列表 我自己的
   #- DOMAIN-KEYWORD,githubusercontent
-  #- DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,img.picelsb.com
 
 #   图片地址
   - DOMAIN-SUFFIX,blr844.com
