@@ -42,8 +42,8 @@ payload:
   - DOMAIN-SUFFIX,av01.tv
   - DOMAIN-SUFFIX,iw01.xyz
   
-#深影
-#  - DOMAIN-SUFFIX,shinybbs.vip
+
+  - DOMAIN-SUFFIX,playno1.com
   - DOMAIN-SUFFIX,avgle.com
   - DOMAIN-SUFFIX,missav.com
 
