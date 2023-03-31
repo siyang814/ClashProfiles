@@ -5,6 +5,7 @@ payload:
   #- DOMAIN-SUFFIX,img.picelsb.com
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
+  - DOMAIN-SUFFIX,docs.metacubex.one
 
   - DOMAIN-SUFFIX,7mmtv.sx
   #- DOMAIN-SUFFIX,av01.tv
