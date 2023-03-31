@@ -4,7 +4,7 @@ payload:
   # 2048 图片 就是慢代理也慢
   #- DOMAIN-SUFFIX,img.picelsb.com
 # clash meta 文档
-  - DOMAIN-SUFFIX,clashmeta.gitbook
+  - DOMAIN-SUFFIX,clash-meta.wiki
 
   - DOMAIN-SUFFIX,7mmtv.sx
   #- DOMAIN-SUFFIX,av01.tv
