@@ -17,7 +17,7 @@ payload:
 
 
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
 
   #- DOMAIN-SUFFIX,baidu.com
   #- DOMAIN-SUFFIX,baidu.com
