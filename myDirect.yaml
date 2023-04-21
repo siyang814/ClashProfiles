@@ -10,7 +10,7 @@ payload:
   - DOMAIN-KEYWORD,tracker
   - DOMAIN,tracker.m-team.cc
   - DOMAIN-SUFFIX,t.pthome.net
-  - DOMAIN-SUFFIX,lt.yyly.vip
+  #- DOMAIN-SUFFIX,lt.yyly.vip
   - DOMAIN-SUFFIX,nx.yyly.vip
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
