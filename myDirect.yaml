@@ -11,12 +11,12 @@ payload:
   - DOMAIN,tracker.m-team.cc
   - DOMAIN-SUFFIX,t.pthome.net
   #- DOMAIN-SUFFIX,lt.yyly.vip
-  - DOMAIN-SUFFIX,nx.yyly.vip
+  #- DOMAIN-SUFFIX,nx.yyly.vip
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
 
 
-  - DOMAIN-SUFFIX,apple.com
+  #- DOMAIN-SUFFIX,apple.com
   #- DOMAIN-SUFFIX,baidu.com
 
   #- DOMAIN-SUFFIX,baidu.com
