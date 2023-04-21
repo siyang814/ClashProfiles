@@ -14,8 +14,18 @@ payload:
   - DOMAIN-SUFFIX,nx.yyly.vip
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
-  # - DOMAIN-SUFFIX,feed43.com
-  # - DOMAIN-SUFFIX,tits-guru.com
+
+
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,baidu.com
+
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
+  #- DOMAIN-SUFFIX,baidu.com
 
   # BT 端口 DTS 目标端口  SRC 源端口
   - SRC-PORT,6882
