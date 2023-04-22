@@ -15,7 +15,7 @@ payload:
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
 
-
+  # ip查询
   - DOMAIN-SUFFIX,ip-api.com
   #- DOMAIN-SUFFIX,baidu.com
 
