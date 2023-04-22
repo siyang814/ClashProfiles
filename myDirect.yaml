@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc
 
 
-  #- DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,ip-api.com
   #- DOMAIN-SUFFIX,baidu.com
 
   #- DOMAIN-SUFFIX,baidu.com
