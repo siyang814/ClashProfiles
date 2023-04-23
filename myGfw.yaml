@@ -14,7 +14,9 @@ payload:
   - DOMAIN-SUFFIX,u9a9.com
   - DOMAIN-SUFFIX,  141jav.com
   # ip查询
-  #- DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ip-api.com
+
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
