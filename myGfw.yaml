@@ -30,7 +30,7 @@ payload:
   
   
   - DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
-  - DOMAIN-SUFFIX,postimg.org
+  #- DOMAIN-SUFFIX,postimg.org
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
