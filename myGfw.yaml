@@ -1,28 +1,13 @@
 payload:
-  # 代理列表 我自己的
-  #- DOMAIN-KEYWORD,githubusercontent
-  # 2048 图片 就是慢代理也慢
-  #- DOMAIN-SUFFIX,img.picelsb.com
-  - DOMAIN-SUFFIX,ageverification.google.com
+# 代理列表 我自己的
+
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,docs.metacubex.one
 
-  - DOMAIN-SUFFIX,7mmtv.sx
-  - DOMAIN-SUFFIX,asiantolick.com
-  - DOMAIN-SUFFIX,javmost.com
-  - DOMAIN-SUFFIX,supjav.com
-  - DOMAIN-SUFFIX,u9a9.com
-  - DOMAIN-SUFFIX,141jav.com
-  # ip查询
+# ip查询
   - DOMAIN-SUFFIX,ipgeolocation.io
   - DOMAIN-SUFFIX,ip-api.com
-
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
 
   #图片
   - DOMAIN-SUFFIX,i2.u9a9.com
@@ -30,29 +15,29 @@ payload:
   - DOMAIN-SUFFIX,xksm54s.com
   - DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
   - DOMAIN-SUFFIX,mymypic.net
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-  #- DOMAIN-SUFFIX,playno1.com
-
-# vr网站
-  - DOMAIN-SUFFIX,sexlikereal.com
-  #- DOMAIN-SUFFIX,empornium.is
-
-#   图片地址
   - DOMAIN-SUFFIX,blr844.com
-  #cool18
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+
+#cool18
   - DOMAIN-SUFFIX,hdporncomics.com
   - DOMAIN-SUFFIX,pornpics.com
 
-
+# 网站
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
- 
- # - DOMAIN-KEYWORD,whiskerssituationdisturb
   - DOMAIN-SUFFIX,tits-guru.com
-  
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,javsee.in
   - DOMAIN-SUFFIX,javlibrary.com
@@ -64,29 +49,21 @@ payload:
   - DOMAIN-SUFFIX,r18.com
   - DOMAIN-SUFFIX,onejav.com
   - DOMAIN-SUFFIX,sexinsex.net
-
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,buxiuse.com
-  
   - DOMAIN-SUFFIX,hjd2048.com
-  
-  #- DOMAIN-SUFFIX,av01.tv
-  - DOMAIN-SUFFIX,iw01.xyz
-  
-
-  #- DOMAIN-SUFFIX,playno1.com
   - DOMAIN-SUFFIX,avgle.com
   - DOMAIN-SUFFIX,missav.com
-
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,7mmtv.sx
+  - DOMAIN-SUFFIX,asiantolick.com
+  - DOMAIN-SUFFIX,javmost.com
+  - DOMAIN-SUFFIX,supjav.com
+  - DOMAIN-SUFFIX,u9a9.com
+  - DOMAIN-SUFFIX,141jav.com
+
   
 
-#onejav
-#  - DOMAIN,stuckencouragedscalpel.com
-#  - DOMAIN,pics.dmm.co.jp
-  
-#  - DOMAIN-SUFFIX,porn-images-xxx.com
- # - DOMAIN-KEYWORD,imgsto.com
 
 
 
