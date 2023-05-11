@@ -3,6 +3,7 @@ payload:
   #- DOMAIN-KEYWORD,githubusercontent
   # 2048 图片 就是慢代理也慢
   #- DOMAIN-SUFFIX,img.picelsb.com
+  - DOMAIN-SUFFIX,ageverification.google.com
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,docs.metacubex.one
@@ -27,11 +28,8 @@ payload:
   - DOMAIN-SUFFIX,i2.u9a9.com
   - DOMAIN-SUFFIX,img.picel48.com
   - DOMAIN-SUFFIX,xksm54s.com
-  
-  
   - DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
   - DOMAIN-SUFFIX,mymypic.net
-  #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
   #- DOMAIN-SUFFIX,playno1.com
