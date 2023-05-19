@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,googleapis-cn.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,adservice.google.com
