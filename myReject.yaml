@@ -5,3 +5,8 @@ payload:
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+ # - DOMAIN-SUFFIX,
+ # - DOMAIN-SUFFIX,
+ # - DOMAIN-SUFFIX,
