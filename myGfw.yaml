@@ -10,17 +10,17 @@ payload:
   - DOMAIN-SUFFIX,ip-api.com
 
   #图片
-  - DOMAIN-SUFFIX,i2.u9a9.com
-  - DOMAIN-SUFFIX,img.picel48.com
-  - DOMAIN-SUFFIX,xksm54s.com
-  - DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
-  - DOMAIN-SUFFIX,mymypic.net
-  - DOMAIN-SUFFIX,blr844.com
-  - DOMAIN-SUFFIX,pictoa.com
-  - DOMAIN-SUFFIX,23img.com
-  - DOMAIN-SUFFIX,ej22g.com
+  #- DOMAIN-SUFFIX,i2.u9a9.com
+  #- DOMAIN-SUFFIX,img.picel48.com
+  #- DOMAIN-SUFFIX,xksm54s.com
+  #- DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
+  #- DOMAIN-SUFFIX,mymypic.net
+  #- DOMAIN-SUFFIX,blr844.com
+  #- DOMAIN-SUFFIX,pictoa.com
+  #- DOMAIN-SUFFIX,23img.com
+  #- DOMAIN-SUFFIX,ej22g.com
   #- DOMAIN-SUFFIX,img.xwbo.com
-  - DOMAIN-SUFFIX,imgpile.com
+  #- DOMAIN-SUFFIX,imgpile.com
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
@@ -31,8 +31,8 @@ payload:
   #- DOMAIN-SUFFIX,
 
 #cool18
-  - DOMAIN-SUFFIX,hdporncomics.com
-  - DOMAIN-SUFFIX,pornpics.com
+  #- DOMAIN-SUFFIX,hdporncomics.com
+  #- DOMAIN-SUFFIX,pornpics.com
 
 # 网站
   - DOMAIN-SUFFIX,sehuatang.net
