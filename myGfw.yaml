@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,pictoa.com
   - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,ej22g.com
-  - DOMAIN-SUFFIX,img.xwbo.com
+  #- DOMAIN-SUFFIX,img.xwbo.com
   - DOMAIN-SUFFIX,imgpile.com
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
