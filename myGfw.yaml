@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,ip-api.com
 
   #图片
-  #- DOMAIN-SUFFIX,i2.u9a9.com
+  - DOMAIN-SUFFIX,k67kk.app
   #- DOMAIN-SUFFIX,img.picel48.com
   #- DOMAIN-SUFFIX,xksm54s.com
   #- DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
