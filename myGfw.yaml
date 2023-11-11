@@ -12,7 +12,9 @@ payload:
   #图片
   #花堂
   - DOMAIN-SUFFIX,k67kk.app
-  #- DOMAIN-SUFFIX,img.picel48.com
+  - DOMAIN-SUFFIX,m2pjo.app
+  #=================================
+  
   #- DOMAIN-SUFFIX,xksm54s.com
   #- DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
   #- DOMAIN-SUFFIX,mymypic.net
