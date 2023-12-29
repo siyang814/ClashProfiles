@@ -71,8 +71,8 @@ payload:
   - DOMAIN-SUFFIX,javhoo.com
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,mikanani.me
-  #- DOMAIN-SUFFIX,
-  #- DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,fc2club.net
+  - DOMAIN-SUFFIX,adult.contents.fc2.com
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
