@@ -6,8 +6,9 @@ payload:
   - DOMAIN-SUFFIX,docs.metacubex.one
 
 # ip查询
-  - DOMAIN-SUFFIX,ipgeolocation.io
+  #- DOMAIN-SUFFIX,ipgeolocation.io
   - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,wtfismyip.com
 
   #图片
   #花堂
@@ -25,7 +26,6 @@ payload:
   #- DOMAIN-SUFFIX,ej22g.com
   #- DOMAIN-SUFFIX,img.xwbo.com
   #- DOMAIN-SUFFIX,imgpile.com
-  #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
