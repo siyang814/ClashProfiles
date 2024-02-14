@@ -9,6 +9,8 @@ payload:
   #- DOMAIN-SUFFIX,ipgeolocation.io
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,wtfismyip.com
+  - DOMAIN-SUFFIX,api-ipv6.ip
+  - DOMAIN-SUFFIX,v6.ident.me
 
   #图片
   #花堂
@@ -26,8 +28,7 @@ payload:
   #- DOMAIN-SUFFIX,ej22g.com
   #- DOMAIN-SUFFIX,img.xwbo.com
   #- DOMAIN-SUFFIX,imgpile.com
-  #- DOMAIN-SUFFIX,
-  #- DOMAIN-SUFFIX,
+
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
