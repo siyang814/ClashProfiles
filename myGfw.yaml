@@ -20,7 +20,8 @@ payload:
   #=================================
   #googleTv
   - DOMAIN-SUFFIX,time.android.com
-  #- DOMAIN-SUFFIX,d7a3x5k7.ssl.hwcdn.net
+#电影
+  - DOMAIN-SUFFIX,iyf.tv
   #- DOMAIN-SUFFIX,mymypic.net
   #- DOMAIN-SUFFIX,blr844.com
   #- DOMAIN-SUFFIX,pictoa.com
