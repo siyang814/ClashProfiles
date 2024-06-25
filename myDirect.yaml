@@ -2,14 +2,14 @@ payload:
   # 直连列表
 
   # MyList && Other
-  - DOMAIN-KEYWORD,speedtest
+  #- DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
 
-  - DOMAIN-KEYWORD,tracker
-  - DOMAIN,tracker.m-team.cc
-  - DOMAIN-SUFFIX,t.pthome.net
+  #- DOMAIN-KEYWORD,tracker
+  #- DOMAIN,tracker.m-team.cc
+  #- DOMAIN-SUFFIX,t.pthome.net
   #- DOMAIN-SUFFIX,lt.yyly.vip
   #- DOMAIN-SUFFIX,nx.yyly.vip
 #   - DOMAIN-KEYWORD,torrent
