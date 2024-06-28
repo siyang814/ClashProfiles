@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,docs.metacubex.one
 # docker 下载
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.com
 
 # ip查询
   #- DOMAIN-SUFFIX,ipgeolocation.io
