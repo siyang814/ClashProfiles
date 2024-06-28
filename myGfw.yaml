@@ -4,6 +4,8 @@ payload:
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,docs.metacubex.one
+# docker 下载
+  - DOMAIN-SUFFIX,docker.io
 
 # ip查询
   #- DOMAIN-SUFFIX,ipgeolocation.io
