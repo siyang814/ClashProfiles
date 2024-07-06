@@ -25,7 +25,8 @@ payload:
   - DOMAIN-SUFFIX,time.android.com
 #电影
   - DOMAIN-SUFFIX,iyf.tv
-  #- DOMAIN-SUFFIX,mymypic.net
+#机场
+  - DOMAIN-SUFFIX,jinglongyu.com
   #- DOMAIN-SUFFIX,blr844.com
   #- DOMAIN-SUFFIX,pictoa.com
   #- DOMAIN-SUFFIX,23img.com
