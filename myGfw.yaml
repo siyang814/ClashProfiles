@@ -28,7 +28,7 @@ payload:
 #机场
   - DOMAIN-SUFFIX,jinglongyu.com
   #openwrt
-  - DOMAIN-SUFFIX,downloads.openwrt.org
+  #- DOMAIN-SUFFIX,downloads.openwrt.org
   #- DOMAIN-SUFFIX,pictoa.com
   #- DOMAIN-SUFFIX,23img.com
   #- DOMAIN-SUFFIX,ej22g.com
