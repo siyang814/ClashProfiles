@@ -18,8 +18,8 @@ payload:
   # ip查询
   - DOMAIN-SUFFIX,mip.chinaz.com
   - DOMAIN-SUFFIX,wtfismyip.com
-
-  #- DOMAIN-SUFFIX,baidu.com
+  # 肥羊iptv
+  - DOMAIN-SUFFIX,ottdns.com
   #- DOMAIN-SUFFIX,baidu.com
   #- DOMAIN-SUFFIX,baidu.com
   #- DOMAIN-SUFFIX,baidu.com
