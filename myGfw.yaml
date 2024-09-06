@@ -27,13 +27,14 @@ payload:
   - DOMAIN-SUFFIX,iyf.tv
 #机场
   - DOMAIN-SUFFIX,jinglongyu.com
+  - DOMAIN-SUFFIX,mcwy.pro
 #电影网站
   # - DOMAIN-SUFFIX,thetvdb.com
   # - DOMAIN-SUFFIX,api.themoviedb.org
   # - DOMAIN-SUFFIX,assets.fanart.tv
 
   
-  #- DOMAIN-SUFFIX,ej22g.com
+  #- DOMAIN-SUFFIX,mcwy.pro
   #- DOMAIN-SUFFIX,img.xwbo.com
   #- DOMAIN-SUFFIX,imgpile.com
 
