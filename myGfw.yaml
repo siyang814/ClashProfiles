@@ -8,6 +8,9 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
 #  - DOMAIN-SUFFIX,gitlab.com
+# meta
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,meta.com
 
 # ip查询
   #- DOMAIN-SUFFIX,ipgeolocation.io
