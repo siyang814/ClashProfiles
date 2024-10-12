@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
 
+  #PLEX
+  - DOMAIN-SUFFIX,app.plex.tv
+
 # ip查询
   #- DOMAIN-SUFFIX,ipgeolocation.io
   - DOMAIN-SUFFIX,ip-api.com
