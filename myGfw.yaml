@@ -3,7 +3,8 @@ payload:
 
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
-  - DOMAIN-SUFFIX,docs.metacubex.one
+  - DOMAIN-SUFFIX,metacubex.one
+  
 # docker 下载
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
