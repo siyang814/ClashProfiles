@@ -39,6 +39,7 @@ payload:
   - '+.sehuatang.net'
   - '+.u79pk.com'
   - '+.tits-guru.com'
+  - '+.tits-guru.net'
   - '+.javbus.com'
   - '+.javsee.in'
   - '+.javlibrary.com'
