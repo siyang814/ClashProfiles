@@ -40,7 +40,7 @@ payload:
   - '+.u79pk.com'
   - '+.tits-guru.com'
   - '+.tits-guru.net'
-  - 'tits-guru.net'
+  #- 'tits-guru.net'
   - 'tits-guru.com'
   - '+.javbus.com'
   - '+.javsee.in'
