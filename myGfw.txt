@@ -1,0 +1,78 @@
+payload:
+# 代理列表 我自己的
+
+# clash meta 文档
+  - '+.metacubex.one'
+  
+# docker 下载
+  - '+.docker.io'
+  - '+.docker.com'
+#  - '+.gitlab.com'
+# meta
+  - '+.meta.ai'
+  - '+.meta.com'
+
+  #PLEX
+  - '+.plex.tv'
+
+# ip查询
+  #- '+.ipgeolocation.io'
+  - '+.ip-api.com'
+  - '+.wtfismyip.com'
+  - '+.api-ipv6.ip'
+  - '+.v6.ident.me'
+
+  #图片
+  #花堂
+  - '+.k67kk.app'
+  - '+.m2pjo.app'
+  - '+.7jt8y.app'
+  #=================================
+  #googleTv
+  - '+.time.android.com'
+#机场
+  - '+.jinglongyu.com'
+  - '+.mcwy.pro'
+#电影网站
+
+# 网站
+  - '+.sehuatang.net'
+  - '+.u79pk.com'
+  - '+.tits-guru.com'
+  - '+.javbus.com'
+  - '+.javsee.in'
+  - '+.javlibrary.com'
+  - '+.jav321.com'
+  - '+.jav123.com'
+  - '+.avsox.website'
+  - '+.javdb8.com'
+  - '+.javdb.com'
+  - '+.mgstage.com'
+ # - '+.r18.com'
+  - '+.onejav.com'
+  - '+.sexinsex.net'
+  - '+.cool18.com'
+  - '+.buxiuse.com'
+  - '+.hjd2048.com'
+  - '+.avgle.com'
+  - '+.missav.com'
+  - '+.thetvdb.com'
+  - '+.7mmtv.sx'
+  - '+.asiantolick.com'
+  - '+.javmost.com'
+  - '+.supjav.com'
+  - '+.u9a9.com'
+  - '+.141jav.com'
+
+  - '+.bulianglin.com'
+  - '+.javhoo.com'
+  - '+.acg.rip'
+  - '+.mikanani.me'
+  - '+.fc2club.net'
+  - '+.adult.contents.fc2.com'
+
+  
+  #- '
+  #- '
+  #- '
+  #- '
