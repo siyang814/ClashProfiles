@@ -1,0 +1,34 @@
+payload:
+  # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
+
+# 群晖  
+  - 'update7.synology.com'
+  
+#   小米
+  - 'o2o.api.xiaomi.com'
+  - 'api.ad.xiaomi.com'
+  - 'mishop.pandora.xiaomi.com'
+  - 'stat.pandora.xiaomi.com'
+  - 'upgrade.mishop.pandora.xiaomi.com'
+  - 'dvb.pandora.xiaomi.com'
+  - 'de.pandora.xiaomi.com'
+  - 'data.mistat.xiaomi.com'
+  - 'jellyfish.pandora.xiaomi.com'
+  - 'gallery.pandora.xiaomi.com'
+  - 'bss.pandora.xiaomi.com'
+  - 'logonext.tv.kuyun.com'
+  - 'ad.mi.com'
+  - 'ad.xiaomi.com'
+  - 'ad1.xiaomi.com'
+  - 'tat.pandora.xiaomi.com'
+  - 't7z.cupid.ptqy.gitv.tv'
+  - 'sdkconfig.ad.xiaomi.com'
+  - 'config.kuyun.com'
+  - 'gvod.aiseejapp.atianqi.com'
+  - 'sdkauth.hpplay.cn'
+  - 'adeng.hpplay.cn'
+  - 'ad.hpplay.cn'
+  - 'conf.hpplay.cn'
+  - 'fix.hpplay.cn'
+
+ 
