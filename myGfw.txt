@@ -67,6 +67,9 @@ payload:
   - '+.supjav.com'
   - '+.u9a9.com'
   - '+.141jav.com'
+  - '+.myfans.jp'
+  - '+.Javtiful.com'
+  - '+.mixcloud.com'
 
   - '+.bulianglin.com'
   - '+.javhoo.com'
