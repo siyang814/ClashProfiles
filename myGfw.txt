@@ -72,7 +72,7 @@ payload:
   - '+.javhoo.com'
   - '+.acg.rip'
   - '+.mikanani.me'
-  - '+.fc2club.net'
+  #- '+.fc2club.net'
   - '+.adult.contents.fc2.com'
 
   
