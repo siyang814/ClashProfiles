@@ -3,6 +3,8 @@ payload:
 
 # clash meta 文档
   - '+.metacubex.one'
+#sing-box
+- '+.sing-box.sagernet.org'
   
 # docker 下载
   - '+.docker.io'
