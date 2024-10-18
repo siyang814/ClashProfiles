@@ -40,8 +40,8 @@ payload:
 # 网站
   - '+.sehuatang.net'
   - '+.u79pk.com'
-  - '+.tits-guru.com'
-  - '+.tits-guru.net'
+  #- '+.tits-guru.com'
+  #- '+.tits-guru.net'
   #- 'tits-guru.net'
   #- 'tits-guru.com'
   - '+.javbus.com'
