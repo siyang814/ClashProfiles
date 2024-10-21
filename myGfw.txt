@@ -1,10 +1,13 @@
 payload:
 # 代理列表 我自己的
 
+#一元
+  - '+.xn--4gq62f52gdss.ink'
+
 # clash meta 文档
   - '+.metacubex.one'
 #sing-box
-- '+.sing-box.sagernet.org'
+  - '+.sing-box.sagernet.org'
   
 # docker 下载
   - '+.docker.io'
