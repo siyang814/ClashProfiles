@@ -23,7 +23,7 @@ payload:
 # ip查询
   - '+.ip-api.com'
   - '+.wtfismyip.com'
-  - '+.api-ipv6.ip.sb'
+  - '+.api-ipv6.ip'
   - '+.v6.ident.me'
 
   #图片
