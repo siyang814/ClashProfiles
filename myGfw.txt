@@ -21,10 +21,9 @@ payload:
   - '+.plex.tv'
 
 # ip查询
-  #- '+.ipgeolocation.io'
   - '+.ip-api.com'
   - '+.wtfismyip.com'
-  - '+.api-ipv6.ip'
+  - '+.api-ipv6.ip.sb'
   - '+.v6.ident.me'
 
   #图片
