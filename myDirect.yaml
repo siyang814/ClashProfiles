@@ -14,6 +14,8 @@ payload:
   #- DOMAIN-SUFFIX,nx.yyly.vip
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
+#花堂
+  - DOMAIN-SUFFIX,sehuatang.net
 
   # ip查询
   - DOMAIN-SUFFIX,mip.chinaz.com
