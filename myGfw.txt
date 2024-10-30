@@ -40,7 +40,7 @@ payload:
 #电影网站
 
 # 网站
-  - '+.sehuatang.net'
+  #- '+.sehuatang.net'
   - '+.u79pk.com'
   #- '+.tits-guru.com'
   #- '+.tits-guru.net'
