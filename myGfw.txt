@@ -29,9 +29,9 @@ payload:
   #图床
  - '+.freeimage.host'
  - '+.up.ccp.ovh'
- #- ''
- #- ''
- #- ''
+ - '+.p.sda1.dev'
+ #- '+.'
+ #- '+.'
 
   #花堂
   - '+.k67kk.app'
