@@ -26,7 +26,13 @@ payload:
   #- '+.api-ipv6.ip'
   - '+.v6.ident.me'
 
-  #图片
+  #图床
+ - '+.freeimage.host'
+ - '+.up.ccp.ovh'
+ #- ''
+ #- ''
+ #- ''
+
   #花堂
   - '+.k67kk.app'
   - '+.m2pjo.app'
