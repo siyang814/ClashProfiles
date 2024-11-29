@@ -32,7 +32,7 @@ payload:
  - '+.p.sda1.dev'
  - '+.img.picgo.net'
  - '+.i.postimg.cc'
- #- '+.'
+ - '+.cdn.statically.io'
  #- '+.'
  #- '+.'
  #- '+.'
