@@ -30,6 +30,10 @@ payload:
  - '+.freeimage.host'
  - '+.up.ccp.ovh'
  - '+.p.sda1.dev'
+ - '+.img.picgo.net'
+ #- '+.'
+ #- '+.'
+ #- '+.'
  #- '+.'
  #- '+.'
 
