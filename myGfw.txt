@@ -33,7 +33,7 @@ payload:
  - '+.img.picgo.net'
  - '+.i.postimg.cc'
  - '+.cdn.statically.io'
- #- '+.'
+ - '+.iili.io'
  #- '+.'
  #- '+.'
 
