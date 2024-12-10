@@ -3,8 +3,8 @@ payload:
 
 # tmdb
   - '+.tmdb.org'
-  - '+.api.tmdb.org'
-  - '+.image.tmdb.org'
+  #- '+.api.tmdb.org'
+  #- '+.image.tmdb.org'
 
 #一元
   - '+.xn--4gq62f52gdss.ink'
