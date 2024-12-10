@@ -3,8 +3,8 @@ payload:
 
 # tmdb
   - '+.tmdb.org'
-  - '+.api.tmdb.org'
-  - '+.image.tmdb.org'
+  #- '+.api.tmdb.org'
+  #- '+.image.tmdb.org'
   - '+.themoviedb.org'
 
 #一元
