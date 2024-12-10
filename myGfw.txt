@@ -5,6 +5,7 @@ payload:
   - '+.tmdb.org'
   - '+.api.tmdb.org'
   - '+.image.tmdb.org'
+  - '+.themoviedb.org'
 
 #一元
   - '+.xn--4gq62f52gdss.ink'
