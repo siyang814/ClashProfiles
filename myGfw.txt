@@ -1,6 +1,9 @@
 payload:
 # 代理列表 我自己的
 
+
+  - '+.tmdb.org'
+
 #一元
   - '+.xn--4gq62f52gdss.ink'
 
