@@ -1,6 +1,8 @@
 payload:
 # 代理列表 我自己的
 
+#immich.app
+  - '+.immich.app'
 # tmdb
   - '+.tmdb.org'
   #- '+.api.tmdb.org'
