@@ -58,6 +58,7 @@ payload:
 #电影网站
 
 # 网站
+  - '+.pstorage.space'
   - '+.sehuatang.net'
   - '+.u79pk.com'
   #- '+.tits-guru.com'
