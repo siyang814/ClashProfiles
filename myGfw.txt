@@ -2,35 +2,37 @@ payload:
 # 代理列表 我自己的
 
 #immich.app
-  - '+.immich.app'
+ - '+.immich.app'
 # tmdb
   #- '+.tmdb.org'
   #- '+.themoviedb.org'
 
 #一元
-  - '+.xn--4gq62f52gdss.ink'
+ - '+.xn--4gq62f52gdss.ink'
 
 # clash meta 文档
-  - '+.metacubex.one'
+ - '+.metacubex.one'
 #sing-box
-  - '+.sing-box.sagernet.org'
+ - '+.sing-box.sagernet.org'
   
 # docker 下载
-  - '+.docker.io'
-  - '+.docker.com'
+ - '+.docker.io'
+ - '+.docker.com'
 #  - '+.gitlab.com'
 # meta
-  - '+.meta.ai'
-  - '+.meta.com'
+ - '+.meta.ai'
+ - '+.meta.com'
 
   #PLEX
-  - '+.plex.tv'
+ - '+.plex.tv'
 
 # ip查询
-  - '+.ip-api.com'
-  - '+.wtfismyip.com'
+ - '+.ip-api.com'
+ - '+.wtfismyip.com'
   #- '+.api-ipv6.ip'
-  - '+.v6.ident.me'
+ - '+.v6.ident.me'
+#测速
+ - '+.fast.com'
 
   #图床
  - '+.freeimage.host'
