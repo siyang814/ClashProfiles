@@ -32,7 +32,7 @@ payload:
   #- '+.api-ipv6.ip'
  - '+.v6.ident.me'
 #测速
- - '+.fast.com'
+ #- '+.fast.com'
 
   #图床
  - '+.freeimage.host'
