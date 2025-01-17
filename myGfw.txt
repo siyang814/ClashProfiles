@@ -42,6 +42,7 @@ payload:
  - '+.i.postimg.cc'
  - '+.cdn.statically.io'
  - '+.iili.io'
+ - '+.pixxxels.cc'
  #- '+.'
  #- '+.'
 
