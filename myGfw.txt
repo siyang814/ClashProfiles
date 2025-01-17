@@ -1,6 +1,8 @@
 payload:
 # 代理列表 我自己的
 
+#测速
+ - '+.speedtest.net'
 #immich.app
  - '+.immich.app'
 # tmdb
