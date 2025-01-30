@@ -2,7 +2,7 @@ payload:
 # 代理列表 我自己的
 
 
- - '+.v2rayssr.com'
+ #- '+.v2rayssr.com'
 #测速
  #- '+.speedtest.net'
 #immich.app
