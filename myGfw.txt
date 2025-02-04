@@ -2,6 +2,9 @@ payload:
 # 代理列表 我自己的
 
 
+#博客
+ - '+.joeyblog.net'
+
  #- '+.v2rayssr.com'
 #测速
  #- '+.speedtest.net'
