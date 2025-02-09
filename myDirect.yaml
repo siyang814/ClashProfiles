@@ -6,7 +6,8 @@ payload:
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
-
+  - DOMAIN-SUFFIX,rn.yyly.vip
+  - DOMAIN-SUFFIX,vv.yyly.vip
   #- DOMAIN-KEYWORD,tracker
   #- DOMAIN,tracker.m-team.cc
   #- DOMAIN-SUFFIX,t.pthome.net
