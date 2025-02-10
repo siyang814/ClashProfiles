@@ -19,8 +19,12 @@ payload:
   #- DOMAIN-SUFFIX,sehuatang.net
 
   # ip查询
-  - DOMAIN-SUFFIX,mip.chinaz.com
-  #- DOMAIN-SUFFIX,wtfismyip.com
+  - DOMAIN-SUFFIX,forge.speedtest.cn
+  - DOMAIN-SUFFIX,cip.cc
+  - DOMAIN-SUFFIX,ipv6.ddnspod.com
+  - DOMAIN-SUFFIX,speed.neu6.edu.cn
+  # - DOMAIN-SUFFIX,mip.chinaz.com
+  
   # 肥羊iptv
   - DOMAIN-SUFFIX,ottdns.com
   #- DOMAIN-SUFFIX,baidu.com
