@@ -36,8 +36,9 @@ payload:
 # ip查询
  - '+.ip-api.com'
  - '+.wtfismyip.com'
-  #- '+.api-ipv6.ip'
+ - '+.api-ipv6.ip'
  - '+.v6.ident.me'
+
 #测速
  #- '+.fast.com'
 
