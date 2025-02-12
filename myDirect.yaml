@@ -11,8 +11,12 @@ payload:
   #- DOMAIN-KEYWORD,tracker
   #- DOMAIN,tracker.m-team.cc
   #- DOMAIN-SUFFIX,t.pthome.net
-  #- DOMAIN-SUFFIX,lt.yyly.vip
-  #- DOMAIN-SUFFIX,nx.yyly.vip
+#vps
+  - DOMAIN-SUFFIX,racknerd.com
+  - DOMAIN-SUFFIX,akile.io
+  - DOMAIN-SUFFIX,acck.io
+#  镜像加速
+  - DOMAIN-SUFFIX,jsdelivr.net
 #   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,m-team.cc
 #花堂
