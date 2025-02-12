@@ -18,7 +18,14 @@ payload:
 #  镜像加速
   - DOMAIN-SUFFIX,jsdelivr.net
 #   - DOMAIN-KEYWORD,torrent
+
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,nicept.net
+  - DOMAIN-SUFFIX,pthome.net
+  #- DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
+  #- DOMAIN-SUFFIX,
+
 #花堂
   #- DOMAIN-SUFFIX,sehuatang.net
 
