@@ -27,7 +27,7 @@ payload:
   #- DOMAIN-SUFFIX,
 
 #花堂
-  #- DOMAIN-SUFFIX,sehuatang.net
+  - DOMAIN-SUFFIX,sehuatang.net
 
   # ip查询
   - DOMAIN-SUFFIX,forge.speedtest.cn
