@@ -70,7 +70,7 @@ payload:
   - '+.pstorage.space'
   - '+.sehuatang.net'
   - '+.u79pk.com'
-  #- '+.tits-guru.com'
+  - '+.ppp.porn'
   #- '+.tits-guru.net'
   #- 'tits-guru.net'
   #- 'tits-guru.com'
