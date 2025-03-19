@@ -91,7 +91,7 @@ payload:
   - '+.missav.ai'
   - '+.hjd2048.com'
   - '+.avgle.com'
-  - '+.missav.com'
+  - '+.missav.ws'
   - '+.thetvdb.com'
   - '+.7mmtv.sx'
   - '+.asiantolick.com'
