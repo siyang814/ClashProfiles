@@ -88,7 +88,7 @@ payload:
   - '+.onejav.com'
   - '+.sexinsex.net'
   - '+.cool18.com'
-  #- '+.buxiuse.com'
+  - '+.missav.ai'
   - '+.hjd2048.com'
   - '+.avgle.com'
   - '+.missav.com'
