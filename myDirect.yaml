@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,rn.yyly.vip
   - DOMAIN-SUFFIX,vv.yyly.vip
-  - DOMAIN-SUFFIX,cc.yyly.vip
+  - DOMAIN-SUFFIX,ak.yyly.vip
   - DOMAIN-SUFFIX,tx.yyly.vip
   #- DOMAIN-KEYWORD,tracker
   #- DOMAIN,tracker.m-team.cc
