@@ -8,6 +8,7 @@ payload:
  #- '+.v2rayssr.com'
 #测速
  #- '+.speedtest.net'
+ - '+.gstatic.com'
 #immich.app
  - '+.immich.app'
 # tmdb
