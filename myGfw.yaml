@@ -1,6 +1,18 @@
 payload:
 # 代理列表 我自己的
 
+#博客
+  - DOMAIN-SUFFIX,joeyblog.net
+  #IMMICH
+  - DOMAIN-SUFFIX,immich.app
+  #一元
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
+  #sing-box
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
+  #plex
+  - DOMAIN-SUFFIX,plex.tv
+  
+
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,metacubex.one
@@ -24,6 +36,15 @@ payload:
   - DOMAIN-SUFFIX,v6.ident.me
 
   #图片
+  - DOMAIN-SUFFIX,freeimage.host
+  - DOMAIN-SUFFIX,up.ccp.ovh
+  - DOMAIN-SUFFIX,p.sda1.dev
+  - DOMAIN-SUFFIX,img.picgo.net
+  - DOMAIN-SUFFIX,i.postimg.cc
+  - DOMAIN-SUFFIX,cdn.statically.io
+  - DOMAIN-SUFFIX,iili.io
+  - DOMAIN-SUFFIX,pixxxels.cc
+  
   #花堂
   - DOMAIN-SUFFIX,k67kk.app
   - DOMAIN-SUFFIX,m2pjo.app
@@ -91,8 +112,6 @@ payload:
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,fc2club.net
   - DOMAIN-SUFFIX,adult.contents.fc2.com
-  #googletv网络受限
-  - DOMAIN-SUFFIX,time.android.com
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
