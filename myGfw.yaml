@@ -25,8 +25,8 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
 
-  #PLEX
-  - DOMAIN-SUFFIX,plex.tv
+  #刮削
+  - DOMAIN-SUFFIX,omdbapi.com
 
 # ip查询
   #- DOMAIN-SUFFIX,ipgeolocation.io
