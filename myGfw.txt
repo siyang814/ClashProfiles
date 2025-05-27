@@ -14,6 +14,8 @@ payload:
 # tmdb
   #- '+.tmdb.org'
   #- '+.themoviedb.org'
+ - '+.omdbapi.com'
+
 
 #一元
  - '+.xn--4gq62f52gdss.ink'
