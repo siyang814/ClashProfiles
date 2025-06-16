@@ -7,9 +7,12 @@ payload:
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,rn.yyly.vip
-  - DOMAIN-SUFFIX,vv.yyly.vip
+  - DOMAIN-SUFFIX,cc.yyly.vip
+  - DOMAIN-SUFFIX,ccc.yyly.vip
   - DOMAIN-SUFFIX,ak.yyly.vip
+  - DOMAIN-SUFFIX,akk.yyly.vip
   - DOMAIN-SUFFIX,tx.yyly.vip
+  
   #- DOMAIN-KEYWORD,tracker
   #- DOMAIN,tracker.m-team.cc
   #- DOMAIN-SUFFIX,t.pthome.net
@@ -39,7 +42,7 @@ payload:
   # - DOMAIN-SUFFIX,mip.chinaz.com
   
   # 肥羊iptv
-  - DOMAIN-SUFFIX,ottdns.com
+  #- DOMAIN-SUFFIX,ottdns.com
   #- DOMAIN-SUFFIX,baidu.com
   #- DOMAIN-SUFFIX,baidu.com
   #- DOMAIN-SUFFIX,baidu.com
