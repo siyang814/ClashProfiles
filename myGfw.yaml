@@ -1,9 +1,6 @@
 payload:
 # 代理列表 我自己的
 
-#stash
-  - DOMAIN-SUFFIX,stash.com
-
 #博客
   - DOMAIN-SUFFIX,joeyblog.net
   #IMMICH
