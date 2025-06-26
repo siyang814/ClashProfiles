@@ -34,7 +34,7 @@ payload:
 
 # ip查询
   - DOMAIN-SUFFIX,ip.sb
-  #- DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ipapi.is
   # - DOMAIN-SUFFIX,ip-api.com
   # - DOMAIN-SUFFIX,wtfismyip.com
   # - DOMAIN-SUFFIX,api-ipv6.ip
