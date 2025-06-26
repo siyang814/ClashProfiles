@@ -33,11 +33,13 @@ payload:
   - DOMAIN-SUFFIX,omdbapi.com
 
 # ip查询
+  - DOMAIN-SUFFIX,ip.sb
   #- DOMAIN-SUFFIX,ipgeolocation.io
-  - DOMAIN-SUFFIX,ip-api.com
-  - DOMAIN-SUFFIX,wtfismyip.com
-  - DOMAIN-SUFFIX,api-ipv6.ip
-  - DOMAIN-SUFFIX,v6.ident.me
+  # - DOMAIN-SUFFIX,ip-api.com
+  # - DOMAIN-SUFFIX,wtfismyip.com
+  # - DOMAIN-SUFFIX,api-ipv6.ip
+  # - DOMAIN-SUFFIX,v6.ident.me
+
 
   #图片
   - DOMAIN-SUFFIX,freeimage.host
