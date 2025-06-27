@@ -1,7 +1,6 @@
 payload:
   # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-#禁止quic
-  - DST-PORT,443,UDP
+
 # 群晖  
   - DOMAIN-SUFFIX,update7.synology.com
   
