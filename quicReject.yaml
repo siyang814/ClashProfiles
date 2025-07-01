@@ -1,0 +1,61 @@
+payload:
+
+  # Google & YouTube 相关域名（QUIC 可能泄露 IP/位置）
+  # 1. 阻断 Google & YouTube 相关 QUIC 域名
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,ytimg.com
+
+  # 2. 阻断 OpenAI & ChatGPT 相关域名
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,openaiapi-site.azurewebsites.net
+  - DOMAIN-SUFFIX,sentry.io
+
+  # === Netflix ===
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,netflixdnstest0.com
+  - DOMAIN-SUFFIX,netflixdnstest1.com
+  - DOMAIN-SUFFIX,netflixdnstest2.com
+  - DOMAIN-SUFFIX,netflixdnstest3.com
+  - DOMAIN-SUFFIX,fast.com
+
+  # === HBO Max ===
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,api.hbomax.com
+  - DOMAIN-SUFFIX,warnerbros.com
+  - DOMAIN-SUFFIX,dcuniverse.com
+
+  # === Disney+ ===
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,media.dssott.com
+
+  # === Facebook / Instagram ===
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,graph.facebook.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+
+  # === X / Twitter ===
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.com
+
+
