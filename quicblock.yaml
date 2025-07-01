@@ -1,0 +1,32 @@
+payload:
+
+  # Google & YouTube 相关域名（QUIC 可能泄露 IP/位置）
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-KEYWORD,youtu.be
+
+  # OpenAI & ChatGPT 相关域名
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,oaistatic
+  - DOMAIN-KEYWORD,openaiapi
+  - DOMAIN-KEYWORD,ingest.sentry
+  - DOMAIN-KEYWORD,ggpht
+
+
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,nflximg
+  - DOMAIN-KEYWORD,nflxvideo
+  - DOMAIN-KEYWORD,nflxext
+
+  - DOMAIN-KEYWORD,disney
+  - DOMAIN-KEYWORD,registerdisney
+  - DOMAIN-KEYWORD,bamgrid
+
+  - DOMAIN-KEYWORD,hbo
+  - DOMAIN-KEYWORD,warnerbros
+  - DOMAIN-KEYWORD,dcuniverse
