@@ -14,19 +14,30 @@ payload:
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,oaistatic
   - DOMAIN-KEYWORD,openaiapi
-  - DOMAIN-KEYWORD,ingest.sentry
+  - DOMAIN-KEYWORD,sentry.io
   - DOMAIN-KEYWORD,ggpht
+
 
 
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nflximg
   - DOMAIN-KEYWORD,nflxvideo
   - DOMAIN-KEYWORD,nflxext
+  - DOMAIN-KEYWORD,fast.com
 
   - DOMAIN-KEYWORD,disney
   - DOMAIN-KEYWORD,registerdisney
   - DOMAIN-KEYWORD,bamgrid
+  - DOMAIN-KEYWORD,static-media.dssott
 
   - DOMAIN-KEYWORD,hbo
   - DOMAIN-KEYWORD,warnerbros
   - DOMAIN-KEYWORD,dcuniverse
+
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-KEYWORD,tumblr
+
+  #- DOMAIN-KEYWORD,dcuniverse
+
