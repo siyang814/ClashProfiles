@@ -1,6 +1,8 @@
 payload:
 # 代理列表 我自己的
 
+
+
 #博客
   - DOMAIN-SUFFIX,joeyblog.net
   #IMMICH
@@ -34,7 +36,7 @@ payload:
 
 # ip查询
   - DOMAIN-SUFFIX,ip.sb
-  #- DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ipapi.is
   # - DOMAIN-SUFFIX,ip-api.com
   # - DOMAIN-SUFFIX,wtfismyip.com
   # - DOMAIN-SUFFIX,api-ipv6.ip
