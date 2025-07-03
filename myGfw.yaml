@@ -32,7 +32,8 @@ payload:
   - DOMAIN-SUFFIX,meta.com
 
   #刮削
-  - DOMAIN-SUFFIX,omdbapi.com
+  #- DOMAIN-SUFFIX,omdbapi.com
+  - DOMAIN-SUFFIX,api.themoviedb.org
 
 # ip查询
   - DOMAIN-SUFFIX,ip.sb
@@ -67,7 +68,6 @@ payload:
   - DOMAIN-SUFFIX,mcwy.pro
 #电影网站
   # - DOMAIN-SUFFIX,thetvdb.com
-  # - DOMAIN-SUFFIX,api.themoviedb.org
   # - DOMAIN-SUFFIX,assets.fanart.tv
 
   
