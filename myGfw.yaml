@@ -45,14 +45,14 @@ payload:
 
 
   #图片
-  - DOMAIN-SUFFIX,freeimage.host
-  - DOMAIN-SUFFIX,up.ccp.ovh
-  - DOMAIN-SUFFIX,p.sda1.dev
-  - DOMAIN-SUFFIX,img.picgo.net
-  - DOMAIN-SUFFIX,i.postimg.cc
-  - DOMAIN-SUFFIX,cdn.statically.io
-  - DOMAIN-SUFFIX,iili.io
-  - DOMAIN-SUFFIX,pixxxels.cc
+  #- DOMAIN-SUFFIX,freeimage.host
+  #- DOMAIN-SUFFIX,up.ccp.ovh
+  #- DOMAIN-SUFFIX,p.sda1.dev
+  #- DOMAIN-SUFFIX,img.picgo.net
+  #- DOMAIN-SUFFIX,i.postimg.cc
+  #- DOMAIN-SUFFIX,cdn.statically.io
+  #- DOMAIN-SUFFIX,iili.io
+  #- DOMAIN-SUFFIX,pixxxels.cc
   
   #花堂
   #- DOMAIN-SUFFIX,sehuatang.net
@@ -63,18 +63,10 @@ payload:
   #googleTv
   - DOMAIN-SUFFIX,time.android.com
 #电影
-  - DOMAIN-SUFFIX,iyf.tv
+  
 #机场
   - DOMAIN-SUFFIX,jinglongyu.com
   - DOMAIN-SUFFIX,mcwy.pro
-#电影网站
-  # - DOMAIN-SUFFIX,thetvdb.com
-  # - DOMAIN-SUFFIX,assets.fanart.tv
-
-  
-  #- DOMAIN-SUFFIX,mcwy.pro
-  #- DOMAIN-SUFFIX,img.xwbo.com
-  #- DOMAIN-SUFFIX,imgpile.com
 
   #- DOMAIN-SUFFIX,
   #- DOMAIN-SUFFIX,
@@ -98,7 +90,7 @@ payload:
   - DOMAIN-SUFFIX,javdb8.com
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,mgstage.com
- # - DOMAIN-SUFFIX,r18.com
+ 
   - DOMAIN-SUFFIX,onejav.com
   - DOMAIN-SUFFIX,sexinsex.net
   - DOMAIN-SUFFIX,cool18.com
