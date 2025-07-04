@@ -55,9 +55,10 @@ payload:
   - DOMAIN-SUFFIX,pixxxels.cc
   
   #花堂
-  - DOMAIN-SUFFIX,k67kk.app
-  - DOMAIN-SUFFIX,m2pjo.app
-  - DOMAIN-SUFFIX,7jt8y.app
+  #- DOMAIN-SUFFIX,sehuatang.net
+  #- DOMAIN-SUFFIX,k67kk.app
+  #- DOMAIN-SUFFIX,m2pjo.app
+  #- DOMAIN-SUFFIX,7jt8y.app
   #=================================
   #googleTv
   - DOMAIN-SUFFIX,time.android.com
@@ -86,7 +87,6 @@ payload:
   #- DOMAIN-SUFFIX,pornpics.com
 
 # 网站
-  - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,u79pk.com
   - DOMAIN-SUFFIX,tits-guru.com
   - DOMAIN-SUFFIX,javbus.com
