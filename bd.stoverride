@@ -10,7 +10,7 @@ http:
     - zhidao.baidu.com
   script:
     - name: 百度跳转
-      type: http-response
+      type: response
       match: ^https:\/\/(?:www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
       requires-body: true
 
