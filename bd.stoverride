@@ -12,7 +12,7 @@ http:
   script:
     - name: 百度跳转
       type: response
-      match: ^https:\/\/(?:www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
+      match: ^https:\/\/(?:www|m|tieba)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
       requires-body: true
 
 script-providers:
