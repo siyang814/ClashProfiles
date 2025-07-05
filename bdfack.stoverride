@@ -1,0 +1,7 @@
+# 百度跳转处理规则（Stash 覆写）
+rewrite:
+  - name: 百度跳转
+    match: ^https:\/\/(?:www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
+    type: response
+    requires-body: true
+    script: https://raw.ananaskop.com/Scripts/Baidu_index.js
