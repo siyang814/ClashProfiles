@@ -1,7 +1,19 @@
 # 百度跳转处理规则（Stash 覆写）
-rewrite:
-  - name: 百度跳转
-    match: ^https:\/\/(?:www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
-    type: response
-    requires-body: true
-    script: https://raw.ananaskop.com/Scripts/Baidu_index.js
+name:
+  fuckBD
+desc:
+  fuckBDGood
+http:
+  mitm:
+    - m.baidu.com
+    - www.baidu.com
+    - zhidao.baidu.com
+  script:
+    - name: 百度跳转
+      type: http-response
+      pattern: ^https:\/\/(?:www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$
+      requires-body: true
+
+script-providers:
+  url: https://raw.ananaskop.com/Scripts/Baidu_index.js
+  interval: 86400
