@@ -15,5 +15,6 @@ http:
       requires-body: true
 
 script-providers:
-  url: https://raw.ananaskop.com/Scripts/Baidu_index.js
-  interval: 86400
+  百度跳转:
+    url: https://raw.ananaskop.com/Scripts/Baidu_index.js
+    interval: 86400
