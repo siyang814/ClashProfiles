@@ -8,6 +8,7 @@ http:
     - m.baidu.com
     - www.baidu.com
     - zhidao.baidu.com
+    - tieba.baidu.com
   script:
     - name: 百度跳转
       type: response
