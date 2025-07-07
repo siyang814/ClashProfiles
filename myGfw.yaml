@@ -11,22 +11,14 @@ payload:
   - DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
   #sing-box
   - DOMAIN-SUFFIX,sing-box.sagernet.org
-  #plex
-  - DOMAIN-SUFFIX,plex.tv
-  
 
 # clash meta 文档
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,clashmeta.org
-  
-
-
-
 # docker 下载
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
-#  - DOMAIN-SUFFIX,gitlab.com
 # meta
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
