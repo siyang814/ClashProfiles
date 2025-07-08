@@ -1,7 +1,8 @@
 payload:
 # 代理列表 我自己的
 
-
+#群晖的
+  - DOMAIN-SUFFIX,entware.net
 
 #博客
   - DOMAIN-SUFFIX,joeyblog.net
