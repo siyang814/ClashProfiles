@@ -56,7 +56,7 @@ payload:
   #googleTv
   - DOMAIN-SUFFIX,time.android.com
 #电影
-  
+  - DOMAIN-SUFFIX,123panfx.com
 #机场
   - DOMAIN-SUFFIX,jinglongyu.com
   - DOMAIN-SUFFIX,mcwy.pro
