@@ -24,6 +24,10 @@ payload:
   #- DOMAIN-SUFFIX,jsdelivr.net
 #   - DOMAIN-KEYWORD,torrent
 
+#bing
+  - DOMAIN-SUFFIX,bing.com
+
+
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,pthome.net
