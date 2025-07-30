@@ -48,7 +48,7 @@ payload:
   #- DOMAIN-SUFFIX,pixxxels.cc
 
   #avflix
-  - DOMAIN-SUFFIX,avflix.com
+  #- DOMAIN-SUFFIX,avflix.com
   
   #花堂
   #- DOMAIN-SUFFIX,sehuatang.net
