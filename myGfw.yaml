@@ -46,6 +46,9 @@ payload:
   #- DOMAIN-SUFFIX,cdn.statically.io
   #- DOMAIN-SUFFIX,iili.io
   #- DOMAIN-SUFFIX,pixxxels.cc
+
+  #avflix
+  - DOMAIN-SUFFIX,avflix.com
   
   #花堂
   #- DOMAIN-SUFFIX,sehuatang.net
