@@ -55,7 +55,7 @@ payload:
   - DOMAIN-SUFFIX,tju.7pzzv.us
   - DOMAIN-SUFFIX,tu.2qq42.us
   - DOMAIN-SUFFIX,tuj.microsoftsa.com
-  #- DOMAIN-SUFFIX,7jt8y.app
+  - DOMAIN-SUFFIX,ttou.j03og.app
   #=================================
   #googleTv
   - DOMAIN-SUFFIX,time.android.com
