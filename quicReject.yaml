@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN,clients4.google.com
+  - DOMAIN,clients6.google.com
 
   # 2. 阻断 OpenAI & ChatGPT 相关域名
   - DOMAIN-SUFFIX,openai.com
