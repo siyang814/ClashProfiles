@@ -1,0 +1,32 @@
+payload:
+# ===== Docker Hub =====
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,auth.docker.io
+  - DOMAIN-SUFFIX,cdn.docker.com
+
+  # ===== GitHub Container Registry =====
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
+
+  # ===== Quay.io (RedHat) =====
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,quaycdn.io
+
+  # ===== Google Container Registry / Artifact Registry =====
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,pkg.dev
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,storage.googleapis.com
+
+  # ===== Amazon ECR =====
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,ecr.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,ecr.us-west-2.amazonaws.com
+
+  # ===== Azure Container Registry =====
+  - DOMAIN-SUFFIX,azurecr.io
+  - DOMAIN-SUFFIX,blob.core.windows.net
