@@ -8,18 +8,16 @@ payload:
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,rn.yyly.vip
   - DOMAIN-SUFFIX,cc.yyly.vip
-  - DOMAIN-SUFFIX,ccc.yyly.vip
   - DOMAIN-SUFFIX,ak.yyly.vip
-  - DOMAIN-SUFFIX,akk.yyly.vip
   - DOMAIN-SUFFIX,tx.yyly.vip
   
   #- DOMAIN-KEYWORD,tracker
   #- DOMAIN,tracker.m-team.cc
   #- DOMAIN-SUFFIX,t.pthome.net
 #vps
-  - DOMAIN-SUFFIX,racknerd.com
-  - DOMAIN-SUFFIX,akile.io
-  - DOMAIN-SUFFIX,acck.io
+  #- DOMAIN-SUFFIX,racknerd.com
+  #- DOMAIN-SUFFIX,akile.io
+  #- DOMAIN-SUFFIX,acck.io
 #  镜像加速
   #- DOMAIN-SUFFIX,jsdelivr.net
 #   - DOMAIN-KEYWORD,torrent
