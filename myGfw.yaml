@@ -1,6 +1,8 @@
 payload:
 # 代理列表 我自己的
 
+#google
+  - DOMAIN-KEYWORD,google
 #群晖的
   #- DOMAIN-SUFFIX,
   - DOMAIN-SUFFIX,entware.net
