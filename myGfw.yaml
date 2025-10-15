@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,entware.net
 #博客
   - DOMAIN-SUFFIX,joeyblog.net
+  - DOMAIN-SUFFIX,nodeseek.com
   #IMMICH
   - DOMAIN-SUFFIX,immich.app
   #一元
