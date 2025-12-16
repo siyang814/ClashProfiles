@@ -1,5 +1,5 @@
 name: 汽水音乐
-desc: 汽水音乐去广告（Stash 稳定版）
+desc: 汽水音乐去广告（Stash 方案一｜纯 rewrite 稳定版）
 icon: https://github.com/Qmxn/Box/raw/X/icon/icon/XD.png
 
 mitm:
@@ -9,7 +9,7 @@ mitm:
     - "*.zijieapi.com"
 
 rewrite:
-  # 广告策略下发
+  # 1️⃣ 广告策略 / 开屏 / Banner / 推荐流
   - name: 汽水音乐-广告配置
     match: ^https:\/\/tnc\d+-.*\.zijieapi\.com\/get_domains\/v\d\/\?
     type: response-jq
@@ -21,10 +21,11 @@ rewrite:
         .data.feed_ad,
         .data.popup_ad,
         .data.banner,
-        .data.ads
+        .data.ads,
+        .data.ad_settings
       )
 
-  # 我的页面广告
+  # 2️⃣ 我的页面广告
   - name: 汽水音乐-我的页面
     match: ^https:\/\/(beta-luna\.douyin|api5-lq\.qishui)\.com\/luna\/me\?
     type: response-jq
@@ -32,10 +33,14 @@ rewrite:
     argument: |
       del(.reward_ad_banner)
 
-  # 卡片引导
+  # 3️⃣ 卡片 / 引导 / 活动入口
   - name: 汽水音乐-卡片引导
     match: ^https:\/\/(beta-luna\.douyin|api5-lq\.qishui)\.com\/luna\/card\?
     type: response-jq
     require-body: true
     argument: |
-      del(.preview_guide)
+      del(
+        .preview_guide,
+        .activity_entry,
+        .commerce_entry
+      )
