@@ -1,18 +1,41 @@
-name: 汽水音乐-测试
-desc: Stash Script 测试
+name: 汽水音乐
+desc: 汽水音乐去广告（Stash 稳定版）
+icon: https://github.com/Qmxn/Box/raw/X/icon/icon/XD.png
 
 mitm:
   hosts:
     - "*.douyin.com"
     - "*.qishui.com"
+    - "*.zijieapi.com"
 
-script:
-  - match: ^https:\/\/(beta-luna\.douyin|api5-lq\.qishui)\.douyin\.com\/luna\/me\/recently-played-media\?
-    name: SodaMusic_remove_ads
-    type: response
+rewrite:
+  # 广告策略下发
+  - name: 汽水音乐-广告配置
+    match: ^https:\/\/tnc\d+-.*\.zijieapi\.com\/get_domains\/v\d\/\?
+    type: response-jq
     require-body: true
+    argument: |
+      del(
+        .data.opaque_data_enabled,
+        .data.splash_ad,
+        .data.feed_ad,
+        .data.popup_ad,
+        .data.banner,
+        .data.ads
+      )
 
-script-providers:
-  SodaMusic_remove_ads:
-    url: https://kelee.one/Resource/JavaScript/SodaMusic/SodaMusic_remove_ads.js
-    interval: 86400
+  # 我的页面广告
+  - name: 汽水音乐-我的页面
+    match: ^https:\/\/(beta-luna\.douyin|api5-lq\.qishui)\.com\/luna\/me\?
+    type: response-jq
+    require-body: true
+    argument: |
+      del(.reward_ad_banner)
+
+  # 卡片引导
+  - name: 汽水音乐-卡片引导
+    match: ^https:\/\/(beta-luna\.douyin|api5-lq\.qishui)\.com\/luna\/card\?
+    type: response-jq
+    require-body: true
+    argument: |
+      del(.preview_guide)
